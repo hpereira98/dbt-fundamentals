@@ -12,3 +12,4 @@ with payments as (
 )
 
 select * from payments
+
